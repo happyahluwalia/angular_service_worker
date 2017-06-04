@@ -1,0 +1,19 @@
+{
+  "dynamic": {
+        "group": [
+            {
+                "name": "bbc",
+                "urls": {
+                    "/bbc-news/": {
+                        "match": "prefix"
+                    }
+                },
+                "cache": {
+                    "optimizeFor":"performance",
+                    "maxAgeMs": 360000000,
+                    "maxEntries": 40,
+                    "strategy": "lru"
+                }
+            }]
+      }
+}
