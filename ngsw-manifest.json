@@ -1,0 +1,28 @@
+{
+  "static": {
+    "urls": {
+      "https://happyahluwalia.github.io/angular_service_worker/0.296690eee0ff4ffb0fa6.chunk.js": "1e46f54eace5b9dc474fba5ec43bfebb1914ef22",
+      "https://happyahluwalia.github.io/angular_service_worker/polyfills.31cf568fb52ad978b5dd.bundle.js": "49d416151c0719c1184a3a3ca80f1864361b047d",
+      "https://happyahluwalia.github.io/angular_service_worker/main.46cd1e03a8a930ee05fc.bundle.js": "8b2289b03c211d39479fdba324c34ef47e103aa9",
+      "https://happyahluwalia.github.io/angular_service_worker/sw-register.0ca159d95c1789a30ea4.bundle.js": "ad3c07c60b87531536df5b835e97f2a7d3bcf6d1",
+      "https://happyahluwalia.github.io/angular_service_worker/vendor.8081ad2355c54c2b3e53.bundle.js": "4a27756f2a62d8e1888f51f6febef6f577f4a5da",
+      "https://happyahluwalia.github.io/angular_service_worker/inline.976518c379a6693a440a.bundle.js": "5d251cf3ef6bdc4b1d4e25c3a559b5d9334b67d6",
+      "https://happyahluwalia.github.io/angular_service_worker/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/android-chrome-192x192.png": "83aaa3319bf15e53836f979d770b9d85b3bff128",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/android-chrome-512x512.png": "2394c5f9a0f961cb8b54accffa1f50001d57dd4d",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/apple-touch-icon-precomposed.png": "e36cebaed002546447a31f095b91f274c0d3ca56",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/apple-touch-icon.png": "0615818824b930f608fa22eda0be023b32755e7a",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/favicon-16x16.png": "171b44b34a7a91bc05418c48a423c82a174de198",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/favicon-32x32.png": "4c579548ff8b901bffdb174bdcc91dc1299474eb",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/favicon.ico": "411564130a3bac81294baa2224a763d5560a954b",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/mstile-150x150.png": "41a096d8e47f7c0349b6fdbba8fa59a0892c8de0",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/icons/safari-pinned-tab.svg": "f915ad8aee5d2875458eabb91671773e01169c87",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/images/GitHub-Mark-32px.png": "fabe53eb72f9b6d3d47cd95aff31ffc45c2fdbf8",
+      "https://happyahluwalia.github.io/angular_service_worker/assets/images/Twitter_bird_logo_2012.svg.png": "7d61ce138a19263fe3463d0e48c418969cf81998",
+      "https://happyahluwalia.github.io/angular_service_worker/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "https://happyahluwalia.github.io/angular_service_worker/manifest.json": "68104e76cad39b04c54cfcb6cfbb2357cfccab60",
+      "https://happyahluwalia.github.io/angular_service_worker/index.html": "2dbd85e72e698993646ceb4490ab7cac03ba9ccf"
+    },
+    "_generatedFromWebpack": true
+  }
+}
