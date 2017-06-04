@@ -7,11 +7,11 @@
     "start": "node server.js",
     "build": "ng build",
     "postinstall": "ng build --prod --aot --base-href=https://happyahluwalia.github.io/angular_service_worker/ && npm run generatesw && npm run deploy-gh-pages",
-    "generatesw":"",
+    "generatesw": "",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy-gh-pages":"ngh"
+    "deploy-gh-pages": "ngh"
   },
   "private": true,
   "dependencies": {
@@ -32,6 +32,7 @@
   "devDependencies": {
     "@angular/cli": "1.0.0",
     "@angular/compiler-cli": "^4.0.0",
+    "@angular/service-worker": "^1.0.0-beta.14",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
     "codelyzer": "~2.0.0",
