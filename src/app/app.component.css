@@ -1,0 +1,24 @@
+@import '../../node_modules/@material/toolbar/dist/mdc.toolbar.min.css';
+
+.demo-paragraph {
+  cursor: pointer;
+  padding: 0px 8px 0px 0px;
+  font-size: 0.75rem;
+  color: white;
+  font-family: Roboto,sans-serif;
+}
+.material-icons {
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0px 8px 0px 0px;
+  color: white;
+}
+[dir='rtl'] .material-icons {
+  padding-left: 8px;
+}
+
+.container {
+  margin-top: 60px;
+  display: flex;
+ *background-color: lightskyblue;
+}
