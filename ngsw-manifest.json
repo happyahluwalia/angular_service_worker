@@ -14,6 +14,20 @@
                     "maxEntries": 40,
                     "strategy": "lru"
                 }
+            },
+            {
+                "name": "cnn",
+                "urls": {
+                    "https://newsapi.org/v1/articles?source=cnn": {
+                        "match": "prefix"
+                    }
+                },
+                "cache": {
+                    "optimizeFor":"freshness",
+                    "maxAgeMs": 360000000,
+                    "maxEntries": 40,
+                    "strategy": "fifo"
+                }
             }]
       }
 }
